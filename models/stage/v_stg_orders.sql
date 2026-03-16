@@ -1,5 +1,5 @@
 {{ config(
-    tags=["Source_system_1"]
+    tags=["Source_system_1"]    
 ) }}
 
 {%- set yaml_metadata -%}
